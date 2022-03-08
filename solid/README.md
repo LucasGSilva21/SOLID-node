@@ -35,3 +35,7 @@ Assim sendo, deve-se extinguir a implementação de métodos somente para cumpri
 O Princípio da Inversão de Dependência afirma que se uma classe for depender de outra, esta deve ser mais estável. Ou seja, se a classe A depender da classe B, B deve ser mais estável que A, de forma que as dependências entre as classes sempre sigam em direção à estabilidade, dependendo de módulos mais estáveis que ela própria.
 
 >“O código que implementa a diretiva de alto nível não deve depender do código que implementa detalhes de baixo nível” (MARTIN 2019)
+
+## Referências
+
+[Os Princípios SOLID](https://medium.com/contexto-delimitado/os-princ%C3%ADpios-solid-34b136f507bb) - by Ricardo Dias
